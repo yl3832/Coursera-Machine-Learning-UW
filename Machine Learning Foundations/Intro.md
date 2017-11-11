@@ -1,4 +1,4 @@
-##This course is the foundmental course of this specialization.
+This course is the foundmental course of this specialization.
 
 1.Usage of GraphLab framework and numpy
 
