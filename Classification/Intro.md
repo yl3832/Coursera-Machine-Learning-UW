@@ -1,13 +1,13 @@
 This course mainly focus on the following modules:
 
-Linear classifier and logistic regression
+1.Linear classifier and logistic regression
 
-Gradient descent
+2.Gradient descent
 
-Decesion trees and boosting 
+3.Decesion trees and boosting 
 
-Precision and recall 
+4.Precision and recall 
 
-Stochastic descent and mini-batch gradient descent
+5.Stochastic descent and mini-batch gradient descent
 
 
